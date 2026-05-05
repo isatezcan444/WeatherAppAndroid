@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">Tezly Weather</string>
+    <string name="app_version">1.0.0</string>
+
+    <string name="title_hourly_forecast">Saatlik Tahmin</string>
+    <string name="title_daily_forecast">Günlük Tahmin</string>
+    <string name="title_weather_summary">Hava Durumu Özeti</string>
+    <string name="title_detail_information">Detaylı Bilgiler</string>
+    <string name="title_settings">Ayarlar</string>
+
+    <string name="label_search_city">Şehir ara</string>
+    <string name="label_today">Bugün</string>
+    <string name="label_tomorrow">Yarın</string>
+    <string name="label_feels_like">Hissedilen</string>
+    <string name="label_humidity">Nem</string>
+    <string name="label_pressure">Basınç</string>
+    <string name="label_wind_speed">Rüzgar Hızı</string>
+    <string name="label_cloudiness">Bulutluluk</string>
+    <string name="label_now">Şimdi</string>
+
+    <string name="summary_title_clear">Gökyüzü harika!</string>
+    <string name="summary_desc_clear">Dışarı çıkıp güneşin tadını çıkarabilirsiniz.</string>
+    <string name="summary_title_cloudy">Hafif bulutlu</string>
+    <string name="summary_desc_cloudy">Yürüyüş yapmak için hala harika bir gün.</string>
+    <string name="summary_title_foggy">Sis uyarısı!</string>
+    <string name="summary_desc_foggy">Görüş mesafesi düşük, araç sürerken dikkatli olun.</string>
+    <string name="summary_title_rainy">Yağmur bekleniyor</string>
+    <string name="summary_desc_rainy">Şemsiyenizi yanınıza almayı unutmayın.</string>
+    <string name="summary_title_snowy">Kar yağıyor</string>
+    <string name="summary_desc_snowy">Sıkı giyinmeyi ve atkınızı almayı unutmayın.</string>
+    <string name="summary_title_stormy">Fırtına uyarısı!</string>
+    <string name="summary_desc_stormy">Güvende kalmak için mümkünse evde kalın.</string>
+    <string name="summary_title_default">Hava Tahmini</string>
+    <string name="summary_desc_default">Güncel güncellemeler için takipte kalın.</string>
+
+    <string name="weather_desc_clear">Açık Gökyüzü</string>
+    <string name="weather_desc_partly_cloudy">Parçalı Bulutlu</string>
+    <string name="weather_desc_foggy">Sisli</string>
+    <string name="weather_desc_drizzle">Çiseleme</string>
+    <string name="weather_desc_rainy">Yağmurlu</string>
+    <string name="weather_desc_snowy">Karlı</string>
+    <string name="weather_desc_heavy_rain">Şiddetli Yağmur</string>
+    <string name="weather_desc_stormy">Fırtınalı</string>
+    <string name="weather_desc_unknown">Bilinmiyor</string>
+
+    <string name="aqi_title_good">HKİ - İyi</string>
+    <string name="aqi_title_fair">HKİ - Kabul Edilebilir</string>
+    <string name="aqi_title_moderate">HKİ - Orta</string>
+    <string name="aqi_title_poor">HKİ - Kötü</string>
+    <string name="aqi_title_very_poor">HKİ - Çok Kötü</string>
+    <string name="aqi_title_hazardous">HKİ - Tehlikeli</string>
+
+    <string name="aqi_desc_good">Hava kalitesi mükemmel. Hava kirliliği nüfus için herhangi bir sağlık riski oluşturmuyor.</string>
+    <string name="aqi_desc_fair">Hava kalitesi genel olarak iyi ancak bazı kirleticiler çok hassas bireyleri etkileyebilir.</string>
+    <string name="aqi_desc_moderate">Hava kalitesi kabul edilebilir. Ancak hassas gruplar açık havada ağır efordan kaçınmalıdır.</string>
+    <string name="aqi_desc_poor">Halk genelinde hafif rahatsızlıklar görülebilir. Hassas gruplar dış mekan aktivitelerinden kaçınmalıdır.</string>
+    <string name="aqi_desc_very_poor">Sağlık uyarıları yürürlükte. Herkes dışarıda geçirilen süreyi kısıtlamalıdır.</string>
+    <string name="aqi_desc_hazardous">Acil durum koşulları. Herkesin ciddi sağlık etkilerinden etkilenmesi muhtemeldir.</string>
+
+    <string name="error_title">Hata!</string>
+    <string name="error_desc_no_internet">Bir şeyler ters gitti.\nLütfen internet bağlantınızı kontrol edin.</string>
+    <string name="error_desc_api_issue">Hava durumu verileri alınamadı. Lütfen daha sonra tekrar deneyin.</string>
+    <string name="error_retry_btn">Tekrar Dene</string>
+
+    <string name="action_see_full_report">Tam Raporu Gör</string>
+    <string name="action_details">Detaylar</string>
+    <string name="action_refresh">Yenile</string>
+    <string name="action_add_favorites">Favorilere Ekle</string>
+    <string name="action_remove_favorites">Favorilerden Çıkar</string>
+
+    <string name="last_update_format">Son güncelleme: %s</string>
+
+    <string name="onboarding_title_1">Tezly Weather\'a\nHoş Geldiniz</string>
+    <string name="onboarding_desc_1">Gerçek zamanlı hava durumu güncellemelerini ve tahminleri anında alın.</string>
+    <string name="onboarding_btn_get_started">Hemen Başla</string>
+
+    <string name="onboarding_title_2">Görünümü Seçin</string>
+    <string name="onboarding_desc_2">Deneyiminizi tarzınıza uygun bir tema ile kişiselleştirin.</string>
+    <string name="onboarding_btn_light_mode">Açık Mod</string>
+    <string name="onboarding_btn_dark_mode">Koyu Mod</string>
+    <string name="onboarding_footer_appearance">Sistem Ayarlarını Kullan</string>
+
+    <string name="onboarding_title_3">Konum Erişimini Etkinleştir</string>
+    <string name="onboarding_desc_3">Doğru ve gerçek zamanlı güncellemeler sunmak için konumunuzu kullanıyoruz.</string>
+    <string name="onboarding_btn_use_location">Konumumu Kullan</string>
+    <string name="onboarding_btn_select_city">Şehri Manuel Seç</string>
+    <string name="onboarding_footer_safe_data">Verileriniz güvende ve asla paylaşılmaz.</string>
+
+    <string name="select_location_title">Konumunuzu Bulun</string>
+    <string name="select_location_description">Dünyanın dört bir yanından güncel koşulları ve detaylı tahminleri keşfetmek için\n bir şehir adı girin.</string>
+    <string name="select_location_btn_confirm">Onayla</string>
+
+    <string name="no_favorite_cities">Henüz favori şehir yok</string>
+
+    <string name="settings_header_general">GENEL</string>
+    <string name="settings_header_appearance">GÖRÜNÜM</string>
+    <string name="settings_header_about">HAKKINDA</string>
+
+    <string name="settings_title_select_appearance">Görünüm Seçin</string>
+    <string name="settings_title_select_language">Dil Seçin</string>
+
+    <string name="settings_item_language">Dil</string>
+    <string name="settings_item_theme">Tema</string>
+    <string name="settings_item_privacy">Gizlilik Politikası</string>
+    <string name="settings_item_about">Hakkında</string>
+
+    <string name="settings_label_system">Sistem</string>
+    <string name="settings_label_english">İngilizce</string>
+    <string name="settings_label_turkish">Türkçe</string>
+    <string name="settings_label_light">Açık</string>
+    <string name="settings_label_dark">Koyu</string>
+</resources>

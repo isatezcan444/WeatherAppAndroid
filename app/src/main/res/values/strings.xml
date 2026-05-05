@@ -1,3 +1,112 @@
 <resources>
-    <string name="app_name">WeatherApp</string>
+    <string name="app_name">Tezly Weather</string>
+    <string name="app_version">1.0.0</string>
+
+    <string name="title_hourly_forecast">Hourly Forecast</string>
+    <string name="title_daily_forecast">Daily Forecast</string>
+    <string name="title_weather_summary">Weather Summary</string>
+    <string name="title_detail_information">Detail Information</string>
+    <string name="title_settings">Settings</string>
+
+    <string name="label_search_city">Search city</string>
+    <string name="label_today">Today</string>
+    <string name="label_tomorrow">Tomorrow</string>
+    <string name="label_feels_like">Feels like</string>
+    <string name="label_humidity">Humidity</string>
+    <string name="label_pressure">Pressure</string>
+    <string name="label_wind_speed">Wind Speed</string>
+    <string name="label_cloudiness">Cloudiness</string>
+    <string name="label_now">Now</string>
+
+    <string name="summary_title_clear">The sky is wonderful!</string>
+    <string name="summary_desc_clear">You can go out and enjoy the sun.</string>
+    <string name="summary_title_cloudy">Slightly cloudy</string>
+    <string name="summary_desc_cloudy">It\'s still a great day for a walk.</string>
+    <string name="summary_title_foggy">Fog warning!</string>
+    <string name="summary_desc_foggy">Visibility is low, be careful while driving.</string>
+    <string name="summary_title_rainy">Rain expected</string>
+    <string name="summary_desc_rainy">Don\'t forget to take your umbrella with you.</string>
+    <string name="summary_title_snowy">It\'s snowing</string>
+    <string name="summary_desc_snowy">Don\'t forget to dress warmly and take your scarf.</string>
+    <string name="summary_title_stormy">Storm warning!</string>
+    <string name="summary_desc_stormy">Stay home if possible to stay safe.</string>
+    <string name="summary_title_default">Weather Forecast</string>
+    <string name="summary_desc_default">Stay tuned for the latest updates.</string>
+
+    <string name="weather_desc_clear">Clear Sky</string>
+    <string name="weather_desc_partly_cloudy">Partly Cloudy</string>
+    <string name="weather_desc_foggy">Foggy</string>
+    <string name="weather_desc_drizzle">Drizzle</string>
+    <string name="weather_desc_rainy">Rainy</string>
+    <string name="weather_desc_snowy">Snowy</string>
+    <string name="weather_desc_heavy_rain">Heavy Rain</string>
+    <string name="weather_desc_stormy">Stormy</string>
+    <string name="weather_desc_unknown">Unknown</string>
+
+    <string name="aqi_title_good">AQI - Good</string>
+    <string name="aqi_title_fair">AQI - Fair</string>
+    <string name="aqi_title_moderate">AQI - Moderate</string>
+    <string name="aqi_title_poor">AQI - Poor</string>
+    <string name="aqi_title_very_poor">AQI - Very Poor</string>
+    <string name="aqi_title_hazardous">AQI - Extremely Poor</string>
+
+    <string name="aqi_desc_good">Air quality is excellent. No air pollution is causing health risks for the population.</string>
+    <string name="aqi_desc_fair">Air quality is generally good, but some pollutants may affect highly sensitive individuals.</string>
+    <string name="aqi_desc_moderate">Air quality is acceptable. However, sensitive groups should reduce heavy outdoor exertion.</string>
+    <string name="aqi_desc_poor">The general public may experience slight discomfort. Sensitive groups should avoid outdoor activities.</string>
+    <string name="aqi_desc_very_poor">Health warnings are in effect. Everyone should limit time spent outdoors.</string>
+    <string name="aqi_desc_hazardous">Emergency conditions. Everyone is likely to be affected by severe health impacts.</string>
+
+    <string name="error_title">Oops!</string>
+    <string name="error_desc_no_internet">Something went wrong. Please check your internet connection.</string>
+    <string name="error_desc_api_issue">We couldn\'t fetch the weather data. Please try again later.</string>
+    <string name="error_retry_btn">Retry</string>
+
+    <string name="action_see_full_report">See Full Report</string>
+    <string name="action_details">Details</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_add_favorites">Add to Favorites</string>
+    <string name="action_remove_favorites">Remove from Favorites</string>
+
+    <string name="last_update_format">Last update: %s</string>
+
+    <string name="onboarding_title_1">Welcome to\nTezly Weather</string>
+    <string name="onboarding_desc_1">Get real-time weather updates and accurate forecasts instantly.</string>
+    <string name="onboarding_btn_get_started">Get Started</string>
+
+    <string name="onboarding_title_2">Choose Appearance</string>
+    <string name="onboarding_desc_2">Personalize your experience with a theme that suits your style.</string>
+    <string name="onboarding_btn_light_mode">Light Mode</string>
+    <string name="onboarding_btn_dark_mode">Dark Mode</string>
+    <string name="onboarding_footer_appearance">Use System Settings</string>
+
+    <string name="onboarding_title_3">Enable Location Access</string>
+    <string name="onboarding_desc_3">We use your location to provide accurate and real-time weather updates.</string>
+    <string name="onboarding_btn_use_location">Use My Location</string>
+    <string name="onboarding_btn_select_city">Select City Manually</string>
+    <string name="onboarding_footer_safe_data">Your data is safe and never shared.</string>
+
+    <string name="select_location_title">Find Your Location</string>
+    <string name="select_location_description">Enter a city name to explore current conditions and detailed forecasts\n from around the world.</string>
+    <string name="select_location_btn_confirm">Confirm</string>
+
+    <string name="no_favorite_cities">No favorite cities yet</string>
+
+    <string name="settings_header_general">GENERAL</string>
+    <string name="settings_header_appearance">APPEARANCE</string>
+    <string name="settings_header_about">ABOUT</string>
+
+    <string name="settings_title_select_appearance">Select Appearance</string>
+    <string name="settings_title_select_language">Select Language</string>
+
+    <string name="settings_item_language">Language</string>
+    <string name="settings_item_theme">Theme</string>
+    <string name="settings_item_privacy">Privacy Policy</string>
+    <string name="settings_item_about">About</string>
+
+    <string name="settings_label_system">System</string>
+    <string name="settings_label_english">English</string>
+    <string name="settings_label_turkish">Turkish</string>
+    <string name="settings_label_light">Light</string>
+    <string name="settings_label_dark">Dark</string>
 </resources>
