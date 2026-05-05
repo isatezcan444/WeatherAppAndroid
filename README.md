@@ -32,6 +32,7 @@ This project was built to improve my skills in modern Android development.
 * DataStore
 * MVVM Architecture
 * Api (Open-Meteo)
+* Design reference (Figma): https://www.figma.com/community/file/1055880209981553884/weather-app
 
 ---
 
