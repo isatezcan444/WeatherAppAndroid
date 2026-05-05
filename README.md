@@ -31,6 +31,7 @@ This project was built to improve my skills in modern Android development.
 * Navigation Compose
 * DataStore
 * MVVM Architecture
+* Api (Open-Meteo)
 
 ---
 
